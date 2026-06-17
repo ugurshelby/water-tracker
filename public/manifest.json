@@ -8,8 +8,8 @@
   "theme_color": "#0a0f1e",
   "icons": [
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iIzNiODJmNiI+PHBhdGggZD0iTTEyIDIuNjlsOC4wNiA4LjA2YTExLjQgMTEuNCAwIDAgMSAzLjk0IDguMjUgMTEuNCAxMS40IDAgMCAxLTExLjQgMTEuNCAxMS40IDExLjQgMCAwIDEtMTEuNC0xMS40IDExLjQgMTEuNCAwIDAgMSAzLjk0LTguMjVsOC4wNi04LjA2eiIvPjwvc3ZnPg==",
-      "sizes": "192x192",
+      "src": "/logo.svg",
+      "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
